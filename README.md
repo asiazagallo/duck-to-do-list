@@ -62,7 +62,7 @@ The packaged app will be available in the `out/` folder.
 
 ## Credits
 
-This project started from the tutorial [*"..."*](https://www.youtube.com/watch?v=GQvDNRBe4IU) and was customized with additional graphics and motivational features.
+This project started from the [tutorial](https://www.youtube.com/watch?v=GQvDNRBe4IU&t=330s) and was customized with additional graphics and motivational features.
 
 ## License
 This project is licensed under the MIT License.
