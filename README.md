@@ -14,6 +14,7 @@ A desktop companion app built with **Electron** and **Vite**, based on [this tut
 - [Electron](https://www.electronjs.org/) — desktop app framework
 - [Electron Forge](https://www.electronforge.io/) — build & packaging tooling
 - [Vite](https://vitejs.dev/) — frontend build tool
+- [SQLite](https://www.sqlite.org/) - SQL database engine
 
 ## Getting Started
 
